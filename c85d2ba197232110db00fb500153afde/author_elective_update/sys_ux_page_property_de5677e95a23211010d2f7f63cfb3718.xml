@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_menu_actions</name>
+        <page display_value="">965677e9ec232110c9248f6caf209c16</page>
+        <required_translations>[{"message":"Report issue","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-20 21:32:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>de5677e95a23211010d2f7f63cfb3718</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_update_name>sys_ux_page_property_de5677e95a23211010d2f7f63cfb3718</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-20 21:32:23</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_710395_gov_sol_0.965677e9ec232110c9248f6caf209c16.root.chrome_menu_actions</unique_name>
+        <value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</application>
+        <file_path/>
+        <instance_id>a0084169db552950b847ac44d4961945</instance_id>
+        <instance_name>dev157335</instance_name>
+        <name>sys_ux_page_property_de5677e95a23211010d2f7f63cfb3718</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_menu_actions</name><page display_value="">965677e9ec232110c9248f6caf209c16</page><required_translations>[{"message":"Report issue","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-06-20 21:32:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>de5677e95a23211010d2f7f63cfb3718</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_menu_actions</sys_name><sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package><sys_policy/><sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope><sys_update_name>sys_ux_page_property_de5677e95a23211010d2f7f63cfb3718</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-06-20 21:32:23</sys_updated_on><type>json</type><unique_name>x_710395_gov_sol_0.965677e9ec232110c9248f6caf209c16.root.chrome_menu_actions</unique_name><value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1766395640</payload_hash>
+        <record_name>chrome_menu_actions</record_name>
+        <reverted_from/>
+        <source>af3dd4b397132110db00fb500153af2d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-06-14 19:14:25</sys_created_on>
+        <sys_id>d9bb5f3197236110db00fb500153af60</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>188bb549e680000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>99bb5f312623611099969c4168cc3f60</update_guid>
+        <update_guid_history>99bb5f312623611099969c4168cc3f60:-1766395640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 14:14:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>78e385bf49e7429293187726b346c844</sys_id>
+        <sys_metadata>de5677e95a23211010d2f7f63cfb3718</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_scope_delete display_value="">16e58c81393948d483161ace1bd5e0a4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_de5677e95a23211010d2f7f63cfb3718</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_de5677e95a23211010d2f7f63cfb3718">d9bb5f3197236110db00fb500153af60</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 14:14:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

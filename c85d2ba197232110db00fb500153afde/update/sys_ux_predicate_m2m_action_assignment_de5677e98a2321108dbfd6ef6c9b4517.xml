@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Tasks">5e5677e954232110adbfd0f7bcbb341b</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-20 21:32:22</sys_created_on>
+        <sys_id>de5677e98a2321108dbfd6ef6c9b4517</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_de5677e98a2321108dbfd6ef6c9b4517</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-20 21:32:22</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

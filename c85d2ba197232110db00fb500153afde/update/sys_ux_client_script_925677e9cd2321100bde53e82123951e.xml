@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Catalog Item Page">565677e9092321109c182dc9b5235c24</macroponent>
+        <name>Set Related item sysId</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api,
+    event,
+    imports
+}) {
+    api.setState("relatedItemSysId", event.payload.sysId);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-20 21:32:23</sys_created_on>
+        <sys_id>925677e9cd2321100bde53e82123951e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Related item sysId</sys_name>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_update_name>sys_ux_client_script_925677e9cd2321100bde53e82123951e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-20 21:32:23</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

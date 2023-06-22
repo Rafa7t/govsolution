@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_125677e9c4232110da8259251dc2b61a</event_name>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-20 21:32:21</sys_created_on>
+        <sys_id>de5677e991232110a4b5a1df0e808e19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_update_name>sys_ux_event_de5677e991232110a4b5a1df0e808e19</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-20 21:32:21</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=de5677e991232110a4b5a1df0e808e19"/>
+</record_update>

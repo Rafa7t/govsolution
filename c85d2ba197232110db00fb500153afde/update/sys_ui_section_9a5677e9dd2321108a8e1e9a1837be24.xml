@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9a5677e9dd2321108a8e1e9a1837be24" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_710395_gov_sol_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-06-20 21:32:20</sys_created_on>
+            <sys_id>de5677e96e2321108f6b91ae9a211d24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5e5677e9522321100318426b6f8f9124">9a5677e9dd2321108a8e1e9a1837be24</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-06-20 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-06-20 21:32:20</sys_created_on>
+            <sys_id>525677e93d2321104c3f01cac84f9c25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5e5677e9522321100318426b6f8f9124">9a5677e9dd2321108a8e1e9a1837be24</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-06-20 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-06-20 21:32:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a5677e9dd2321108a8e1e9a1837be24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+            <sys_update_name>sys_ui_section_9a5677e9dd2321108a8e1e9a1837be24</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-06-20 21:32:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_710395_gov_sol_0)" name="custom_portal_approval_x_710395_gov_sol_0">5e5677e9522321100318426b6f8f9124</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
