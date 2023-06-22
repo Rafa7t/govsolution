@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">965677e9ec232110c9248f6caf209c16</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-20 21:32:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>525677e949232110c66087f9d77fc719</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_update_name>sys_ux_page_property_525677e949232110c66087f9d77fc719</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-20 21:32:21</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_710395_gov_sol_0.965677e9ec232110c9248f6caf209c16.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</application>
+        <file_path/>
+        <instance_id>a0084169db552950b847ac44d4961945</instance_id>
+        <instance_name>dev157335</instance_name>
+        <name>sys_ux_page_property_525677e949232110c66087f9d77fc719</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">965677e9ec232110c9248f6caf209c16</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-06-20 21:32:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>525677e949232110c66087f9d77fc719</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package><sys_policy/><sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope><sys_update_name>sys_ux_page_property_525677e949232110c66087f9d77fc719</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-06-20 21:32:21</sys_updated_on><type>json</type><unique_name>x_710395_gov_sol_0.965677e9ec232110c9248f6caf209c16.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1984776660</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>af3dd4b397132110db00fb500153af2d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-06-14 19:14:25</sys_created_on>
+        <sys_id>95bb5f3197236110db00fb500153af44</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>188bb549e680000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>55bb5f31e32361101000f0f13b609044</update_guid>
+        <update_guid_history>55bb5f31e32361101000f0f13b609044:1984776660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 14:14:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>29ac82e46c9f46f08b3f081d9ff9e751</sys_id>
+        <sys_metadata>525677e949232110c66087f9d77fc719</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_scope_delete display_value="">16e58c81393948d483161ace1bd5e0a4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_525677e949232110c66087f9d77fc719</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_525677e949232110c66087f9d77fc719">95bb5f3197236110db00fb500153af44</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 14:14:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

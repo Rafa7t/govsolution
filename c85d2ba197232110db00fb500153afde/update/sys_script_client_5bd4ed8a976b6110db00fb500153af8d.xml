@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Preencher campos</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+  var ritmSysId = g_form.getUniqueValue();
+
+  var gr = new GlideAjax('GetCatalogFieldValues');
+  gr.addParam('sysparm_name', 'getCatalogFields');
+  gr.addParam('sysparm_ritm_sys_id', ritmSysId);
+  gr.getXMLAnswer(function(response) {
+    if (response) {
+      var ritmFields = JSON.parse(response);
+
+      g_form.setValue('location', ritmFields.municipio);
+      g_form.setValue('short_description', ritmFields.descricao_resumida);
+      g_form.setValue('description', ritmFields.descricao);
+    }
+  });
+}
+
+
+
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 00:15:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5bd4ed8a976b6110db00fb500153af8d</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Preencher campos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gov Solutions" source="x_710395_gov_sol_0">c85d2ba197232110db00fb500153afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gov Solutions">c85d2ba197232110db00fb500153afde</sys_scope>
+        <sys_update_name>sys_script_client_5bd4ed8a976b6110db00fb500153af8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 00:30:07</sys_updated_on>
+        <table>sc_req_item</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
